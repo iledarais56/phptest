@@ -1,9 +1,9 @@
 <?php
 require('vendor/autoload.php');
 
-$-SERVER['HTTP_HOST']
+$_SERVER['HTTP_HOST']
 
-if($-SERVER['HTTP_HOST'] != "https://api-slack-token-ob.herokuapp.com"){
+if($_SERVER['HTTP_HOST'] != "api-slack-token-ob.herokuapp.com"){
 
     $dotenv = Dotenv\Dotenv::createMutable(__DIR__);
     $dotenv->load();
