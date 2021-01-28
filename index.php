@@ -1,7 +1,7 @@
 <?php
 require('vendor/autoload.php');
 
-$_SERVER['HTTP_HOST']
+
 
 if($_SERVER['HTTP_HOST'] != "api-slack-token-ob.herokuapp.com"){
 
