@@ -1,0 +1,10 @@
+{
+    "name": "kercode/api",
+    "authors": [
+        {
+            "name": "Olivier Bessuand",
+            "email": "bessuand.o@gmail.com"
+        }
+    ],
+    "require": {}
+}
