@@ -1,3 +1,3 @@
 <?php
 
-echo('hello ? Is there anybody here ?');
+echo('hello ?');
